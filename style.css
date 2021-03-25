@@ -434,6 +434,18 @@ footer> .container {
 
   .section-two {
     flex-direction: column;
+    width: 100vw;
+    text-align: center;
+  }
+  .section-three {
+    flex-direction: column;
+    width: 100vw;
+    text-align: center;
+  }
+  .section-four {
+    flex-direction: column;
+    width: 100vw;
+    text-align: center;
   }
 
   .sec-h3 {
