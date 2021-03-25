@@ -535,6 +535,10 @@ footer> .container {
     margin-bottom: 15px;
   }
 
+  ..sec3-h3 {
+    width: inherit;
+  }
+
 
   
 }
