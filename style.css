@@ -296,9 +296,11 @@ footer> .container {
 
 @media screen and (max-width: 768px) {
   .container {
+    margin: 0;
+    padding: 0;
     width: 100vw;
     padding: 0px 15px;
-    margin: 0;
+    
   }
   .burger {
     display: block;
@@ -393,12 +395,12 @@ footer> .container {
   .header .container h1 {
     margin-top: 17px;
     margin-bottom: 17px;
-    font-size: 32px;
-    line-height: 40px;
+    font-size: 30px;
     color: #252B42;
   }
 
   .header .container p {
+    font-size: 24px;
     color: #737373;
   }
 
@@ -434,6 +436,8 @@ footer> .container {
   }
 
   .hr2 {
+    margin: 0;
+    padding: 0;
     display: block;
     width: 100vw;
     height: 3px;
