@@ -438,7 +438,7 @@ footer> .container {
   .hr2 {
     margin: 0;
     padding: 0;
-    display: block;
+    display: none;
     width: 100vw;
     height: 3px;
     background-color: #E4E4E4;
@@ -446,15 +446,15 @@ footer> .container {
   }
 
   .sec-two-right {
-    width: inherit;
+    width: 100vw;
     text-align: center;
   }
   .sec-three-right {
-    width: inherit;
+    width: 100vw;
     text-align: center;
   }
   .sec-four-right {
-    width: inherit;
+    width: 100vw;
     text-align: center;
   }
 
@@ -471,6 +471,10 @@ footer> .container {
     margin-left: auto;
     width: 60vw;
     font-size: 22px;
+  }
+
+  .phoneicon2 {
+    display: none;
   }
 
 
