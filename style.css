@@ -441,6 +441,16 @@ footer> .container {
     font-size: 24px;
   }
 
+  .sec-two-right {
+    width: 100vw;
+  }
+  .sec-three-right {
+    width: 100vw;
+  }
+  .sec-four-right {
+    width: 100vw;
+  }
+
   .sec-h2 {
     margin: 0;
     padding: 0;
