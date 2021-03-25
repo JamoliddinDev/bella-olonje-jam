@@ -292,7 +292,7 @@ footer> .container {
 @media screen and (max-width: 768px) {
   .container {
     width: 100vw;
-    padding: 0px 15px;
+    padding: 0px 0px;
     margin: 0;
   }
   .burger {
@@ -469,6 +469,11 @@ footer> .container {
     font-size: 40px;
     text-align: center;
     width: 80vw;
+  }
+
+  .sec-p {
+    font-size: 24px;
+    text-align: center;
   }
 
 }
