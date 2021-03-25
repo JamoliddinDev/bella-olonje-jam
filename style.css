@@ -292,6 +292,10 @@ footer> .container {
   color: #5C5C5C;
 }
 
+.sec-mobile {
+  display: none;
+}
+
 
 
 @media screen and (max-width: 768px) {
@@ -473,11 +477,13 @@ footer> .container {
     font-size: 22px;
   }
 
-  .phoneicon2 {
-    /* display: none; */
+  .sec-two-left {
+    display: none;
   }
 
-
+  .sec-mobile {
+    display: block;
+  }
 
   
 }
