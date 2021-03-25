@@ -539,6 +539,11 @@ footer> .container {
     width: inherit;
   }
 
+  .header-app-btn {
+    border:1px solid #FA4A0C;
+    color: #FA4A0C;
+  }
+
 
   
 }
